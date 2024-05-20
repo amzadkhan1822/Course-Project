@@ -8,4 +8,8 @@ Output
    simple interest = p*t*r
 
 
+<<<<<<< main
+   2023 XYZ, Inc.
+=======
 2022 XYZ, Inc.
+>>>>>>> main
